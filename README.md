@@ -44,3 +44,7 @@ target/burp-clean-copy.jar
 1. In **Proxy History**, **Repeater**, **Target**, etc., select one or more requests
 2. Right-click → **Clean Copy** → choose what you want to copy
 3. Paste into Google Docs (or anywhere) — no extra blank lines
+
+## License
+
+MIT — see [LICENSE](LICENSE).
